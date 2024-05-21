@@ -1,1 +1,1 @@
-# Data-_science_salary_prediction
+# Data_science_salary_prediction
