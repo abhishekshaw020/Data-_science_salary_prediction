@@ -17,7 +17,7 @@ df = pd.read_csv('salaries.csv')
 
 # Streamlit app
 st.set_page_config(page_title="Data Science Salary Analysis and Prediction", layout="wide")
-st.title('HR Salary Analysis and Prediction Dashboard')
+st.title('Data Science Salary Analysis and Prediction Dashboard')
 
 # Sidebar for navigation
 st.sidebar.header('Navigation')
